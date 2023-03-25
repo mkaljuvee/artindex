@@ -3,7 +3,7 @@ import plotly.express as px
 import pandas as pd
 import numpy as np
 
-st.title('Kanvas.AI Art Index')
+st.title('Marius' Art Index')
 
 st.header('Allee Galerii Auctions - Map of Art Market')
 
